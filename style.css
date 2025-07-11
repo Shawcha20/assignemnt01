@@ -249,3 +249,32 @@ label{
     font-size: 97px;
     font-weight: bold;
 }
+footer{
+    background-color: white;
+    width: 100%;
+    height: auto;   
+    padding: 80px;
+    font-family: 'Inter', sans-serif;
+}
+.foot{
+text-align: center;
+min-width: 1140px;
+padding: 40px;
+}
+footer h1{
+ font-size: 100px;
+ font-weight: 900;
+ color: #4E47FF;
+}
+
+.footerList{
+    list-style: none;
+    padding: 20px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+}
+.footerList a{
+    text-decoration: none;
+}
