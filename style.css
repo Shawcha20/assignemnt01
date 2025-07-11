@@ -274,7 +274,12 @@ footer h1{
     display: flex;
     justify-content: center;
     gap: 20px; 
+    
 }
+
 .footerList a{
-    text-decoration: none;
+    text-decoration: none; 
+}
+.foot p,a{
+    color:#8987A1;
 }
