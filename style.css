@@ -214,3 +214,38 @@ p {
     font-size: 50px;
     font-weight: bold;
 }
+.form{
+    margin:50px;
+}
+.formSec{
+min-width: 1140px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+
+.formCon{
+    display: flex;
+    flex-direction: column;
+    gap:20px ;
+    width: 30%;
+
+}
+
+input,textarea{
+    padding: 14px;
+    border-radius: 10px;
+    border: none;
+      font-family: 'Inter',sans-serif;
+}
+label{
+    font-weight: bold;
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+}
+.formSec h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 97px;
+    font-weight: bold;
+}
